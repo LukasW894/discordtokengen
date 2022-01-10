@@ -32,10 +32,6 @@ pyinstaller is not recognized as an external command
 
 > You probably have python 3.10 which has some new shit so downgrade to python 3.9 (https://www.python.org/downloads/release/python-397/)
 
-|-------------------------------------------------|
 |🌟Star This Repository if you liked TokenGen!|
-|-------------------------------------------------|
 |⚠️・TokenGen was made for educational purposes・⚠️|
-|-------------------------------------------------|
 By using TokenGen, you agree that you hold responsibility and accountability of any consequences caused by your actions
-|-------------------------------------------------|
